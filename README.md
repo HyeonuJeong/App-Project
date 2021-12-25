@@ -1,1 +1,1 @@
-Calendar diary
+Calendar diary App
